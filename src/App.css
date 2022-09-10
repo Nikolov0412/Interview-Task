@@ -1,0 +1,38 @@
+.App {
+  text-align: center;
+}
+.addCounterBtn{
+  margin: 1em;
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+  font-size: 1em;
+  font-weight: 400;
+  background-color: #4681f4;
+  border: 1px solid#4681f4;;
+  color: #fafafa;
+  padding: 10px 24px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  cursor: pointer;
+}
+.removeCounterBtn{
+  margin: 1em;
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+  font-size: 1em;
+  font-weight: 400;
+  background-color: #fafafa;
+  border: 1px solid#4681f4;;
+  color: #4681f4;
+  padding: 10px 24px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  cursor: pointer;
+}
+.button-wrapper{
+  margin-top: 2em;
+}
